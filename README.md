@@ -1,5 +1,3 @@
 # Validando-formularios-com-classes
 
-Validação de CPF.
-Caso o CPF esteja incorreto, você será avisado pelo sistema.
-Foi utilizado classes no JavaScript, pois esse mesmo projeto foi feito anteriormente, de outra forma.
+Formulários em forma de login, foi feito utilizando classes para tentar deixar o código mais limpo possível.
